@@ -16,7 +16,7 @@ This project explores the **Genomics of Drug Sensitivity in Cancer (GDSC)** data
 ## How to Reproduce
 1. Open the `.ipynb` file in Google Colab.
 2. Run the notebook step-by-step to reproduce the analysis.
-3. Ensure the dataset (if required) is downloaded and placed in the correct path.
+3. Ensure the dataset  is downloaded and placed in the correct path.
 
 ## Results
 The analysis highlights the importance of features such as drug IDs, target pathways, and tissue descriptors in predicting drug sensitivity. The XGBoost model, after hyperparameter tuning, demonstrates robust performance with enhanced accuracy and recall.
